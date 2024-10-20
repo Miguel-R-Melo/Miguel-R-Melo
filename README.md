@@ -5,9 +5,9 @@
 - 👯 I’m looking to collaborate on freelance projects
 - 💬 Ask me about web development
 ##
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-R-Melo&theme=shadow_red&hide_border=false&layout=compact) <br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=Miguel-R-Melo&show_icons=true&theme=shadow_red) <br/> <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Miguel-R-Melo&theme=shadow_red&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-R-Melo&theme=radical&hide_border=false&layout=compact) <br/><br/>
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel-R-Melo&show_icons=true&theme=radical) <br/> <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Miguel-R-Melo&theme=radical&hide_border=false)
 
 ##
 <div style="display:inline;">
