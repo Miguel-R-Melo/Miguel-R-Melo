@@ -5,6 +5,11 @@
 - 👯 I’m looking to collaborate on freelance projects
 - 💬 Ask me about web development
 ##
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-R-Melo&theme=shadow_red&hide_border=false&layout=compact) <br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=Miguel-R-Melo&show_icons=true&theme=shadow_red) <br/> <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Miguel-R-Melo&theme=shadow_red&hide_border=false)
+
+##
 <div style="display:inline;">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
