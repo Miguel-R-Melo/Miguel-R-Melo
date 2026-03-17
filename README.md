@@ -60,8 +60,7 @@ Chamo-me Miguel Melo, tenho 20 anos e sou natural do Rio de Janeiro. Concluí o 
     style="padding-right: 10px; background-color: white;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" 
 />
-
-          
+        
           
 
 <br/>
